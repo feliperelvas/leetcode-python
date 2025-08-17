@@ -15,7 +15,7 @@ O objetivo principal é praticar para melhorar minhas habilidades de programaç�
 ## 📂 Estrutura do Repositório
 
 ## 📂 Estrutura do Repositório  
-📁 leetcode-python
+📁 leetcode-python  
 ┣ 📂 easy/ # Desafios fáceis  
 ┣ 📂 medium/ # Desafios de dificuldade média  
 ┣ 📂 hard/ # Desafios difíceis  
