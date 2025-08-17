@@ -14,15 +14,13 @@ O objetivo principal é praticar para melhorar minhas habilidades de programaç�
 
 ## 📂 Estrutura do Repositório
 
-leetcode-python/
-│
-├── easy/         # Desafios fáceis
-├── medium/       # Desafios de dificuldade média
-├── hard/         # Desafios difíceis
-│
-├── README.md     # Este arquivo
-└── requirements.txt  # (opcional, se usar libs extras)
-
+## 📂 Estrutura do Repositório  
+📁 leetcode-python
+┣ 📂 easy/ # Desafios fáceis  
+┣ 📂 medium/ # Desafios de dificuldade média  
+┣ 📂 hard/ # Desafios difíceis  
+┣ 📄 README.md # Este arquivo  
+┗ 📄 requirements.txt (opcional, se usar libs extras)  
 
 ## Cada arquivo segue o padrão:
 
