@@ -35,9 +35,9 @@ O objetivo principal é praticar para melhorar minhas habilidades de programaç�
 ---
 
 ## 📈 Progresso  
-🟩 Easy  
-🟨 Medium  
-🟥 Hard  
+🟩 Easy: 1
+🟨 Medium: 1 
+🟥 Hard: 0
 
 Vou atualizar esta seção conforme for avançando nos desafios.  
 
